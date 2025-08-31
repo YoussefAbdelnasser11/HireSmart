@@ -28,7 +28,7 @@ The following dependencies are required to run the project. They are listed in `
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/YoussefAbdelnasser11/HireSmart/tree/main>
    cd hiresmart
    ```
 
